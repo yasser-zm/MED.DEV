@@ -1,5 +1,5 @@
 # MED.DEV
-START OF A BIG JOURNEY 
+ 
 <!DOCTYPE html>
 <html lang="en">
 <head>
